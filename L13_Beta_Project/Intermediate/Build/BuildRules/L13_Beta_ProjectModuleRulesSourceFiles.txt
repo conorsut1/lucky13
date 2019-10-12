@@ -1,0 +1,3 @@
+S:\Large Github Repos\lucky13\L13_Beta_Project\Source\L13_Beta_Project\L13_Beta_Project.Build.cs
+S:\Large Github Repos\lucky13\L13_Beta_Project\Source\L13_Beta_Project.Target.cs
+S:\Large Github Repos\lucky13\L13_Beta_Project\Source\L13_Beta_ProjectEditor.Target.cs
