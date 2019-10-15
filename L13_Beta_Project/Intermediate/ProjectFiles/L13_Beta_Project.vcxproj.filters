@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\L13_Beta_Project.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{ABDC5DAC-83C6-4573-88AF-B8A221E0FC6A}</UniqueIdentifier>
+      <UniqueIdentifier>{7691973C-A25E-425B-A0E3-918D95C41A01}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\L13_Beta_Project.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{B1C85D00-7606-4266-9A90-DBC185772B79}</UniqueIdentifier>
+      <UniqueIdentifier>{83CBF8A9-F0C6-4F3C-B22F-BE74FAAEDE22}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\L13_Beta_Project">
-      <UniqueIdentifier>{8A79F4C5-D439-4D0D-B6D1-F560E803C1CC}</UniqueIdentifier>
+      <UniqueIdentifier>{28F292F9-66CE-40C6-90E0-55171A5A99DC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\L13_Beta_Project\L13_Beta_Project.Build.cs">
       <Filter>Source\L13_Beta_Project</Filter>

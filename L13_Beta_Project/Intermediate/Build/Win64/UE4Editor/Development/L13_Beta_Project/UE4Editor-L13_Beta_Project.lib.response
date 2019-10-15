@@ -6,10 +6,10 @@
 /NAME:"UE4Editor-L13_Beta_Project.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"S:\Large Github Repos\lucky13\L13_Beta_Project\Intermediate\Build\Win64\L13_Beta_ProjectEditor\Development\Engine\SharedPCH.Engine.h.obj"
-"S:\Large Github Repos\lucky13\L13_Beta_Project\Intermediate\Build\Win64\UE4Editor\Development\L13_Beta_Project\L13_Beta_Project.cpp.obj"
-"S:\Large Github Repos\lucky13\L13_Beta_Project\Intermediate\Build\Win64\UE4Editor\Development\L13_Beta_Project\L13_Beta_ProjectGameModeBase.cpp.obj"
-"S:\Large Github Repos\lucky13\L13_Beta_Project\Intermediate\Build\Win64\UE4Editor\Development\L13_Beta_Project\L13_Beta_Project.init.gen.cpp.obj"
-"S:\Large Github Repos\lucky13\L13_Beta_Project\Intermediate\Build\Win64\UE4Editor\Development\L13_Beta_Project\L13_Beta_ProjectGameModeBase.gen.cpp.obj"
-"S:\Large Github Repos\lucky13\L13_Beta_Project\Intermediate\Build\Win64\UE4Editor\Development\L13_Beta_Project\PCLaunch.rc.res"
-/OUT:"S:\Large Github Repos\lucky13\L13_Beta_Project\Intermediate\Build\Win64\UE4Editor\Development\L13_Beta_Project\UE4Editor-L13_Beta_Project.lib"
+"D:\github\lucky13\L13_Beta_Project\Intermediate\Build\Win64\L13_Beta_ProjectEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\github\lucky13\L13_Beta_Project\Intermediate\Build\Win64\UE4Editor\Development\L13_Beta_Project\L13_Beta_Project.cpp.obj"
+"D:\github\lucky13\L13_Beta_Project\Intermediate\Build\Win64\UE4Editor\Development\L13_Beta_Project\L13_Beta_ProjectGameModeBase.cpp.obj"
+"D:\github\lucky13\L13_Beta_Project\Intermediate\Build\Win64\UE4Editor\Development\L13_Beta_Project\L13_Beta_Project.init.gen.cpp.obj"
+"D:\github\lucky13\L13_Beta_Project\Intermediate\Build\Win64\UE4Editor\Development\L13_Beta_Project\L13_Beta_ProjectGameModeBase.gen.cpp.obj"
+"D:\github\lucky13\L13_Beta_Project\Intermediate\Build\Win64\UE4Editor\Development\L13_Beta_Project\PCLaunch.rc.res"
+/OUT:"D:\github\lucky13\L13_Beta_Project\Intermediate\Build\Win64\UE4Editor\Development\L13_Beta_Project\UE4Editor-L13_Beta_Project.lib"
