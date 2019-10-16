@@ -24,9 +24,9 @@
 /wd4838
 /we4668
 /I .
-/I D:\github\lucky13\L13_Beta_Project\Intermediate\Build\Win64\UE4Editor\Inc\L13_Beta_Project
-/I D:\github\lucky13\L13_Beta_Project\Source
-/I D:\github\lucky13\L13_Beta_Project\Source\L13_Beta_Project
+/I "D:\L13 git\lucky13\L13_Beta_Project\Intermediate\Build\Win64\UE4Editor\Inc\L13_Beta_Project"
+/I "D:\L13 git\lucky13\L13_Beta_Project\Source"
+/I "D:\L13 git\lucky13\L13_Beta_Project\Source\L13_Beta_Project"
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -421,12 +421,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"D:\github\lucky13\L13_Beta_Project\Intermediate\Build\Win64\L13_Beta_ProjectEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\github\lucky13\L13_Beta_Project\Intermediate\Build\Win64\L13_Beta_ProjectEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\github\lucky13\L13_Beta_Project\Intermediate\Build\Win64\L13_Beta_ProjectEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\github\lucky13\L13_Beta_Project\Source\L13_Beta_Project\L13_Beta_ProjectGameModeBase.cpp"
-/FI"D:\github\lucky13\L13_Beta_Project\Intermediate\Build\Win64\UE4Editor\Development\L13_Beta_Project\Definitions.L13_Beta_Project.h"
-/Fo"D:\github\lucky13\L13_Beta_Project\Intermediate\Build\Win64\UE4Editor\Development\L13_Beta_Project\L13_Beta_ProjectGameModeBase.cpp.obj"
+/FI"D:\L13 git\lucky13\L13_Beta_Project\Intermediate\Build\Win64\L13_Beta_ProjectEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\L13 git\lucky13\L13_Beta_Project\Intermediate\Build\Win64\L13_Beta_ProjectEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\L13 git\lucky13\L13_Beta_Project\Intermediate\Build\Win64\L13_Beta_ProjectEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\L13 git\lucky13\L13_Beta_Project\Source\L13_Beta_Project\L13_Beta_ProjectGameModeBase.cpp"
+/FI"D:\L13 git\lucky13\L13_Beta_Project\Intermediate\Build\Win64\UE4Editor\Development\L13_Beta_Project\Definitions.L13_Beta_Project.h"
+/Fo"D:\L13 git\lucky13\L13_Beta_Project\Intermediate\Build\Win64\UE4Editor\Development\L13_Beta_Project\L13_Beta_ProjectGameModeBase.cpp.obj"
 /TP
 /GR-
 /W4

@@ -111,7 +111,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{FFFFEE65-F67E-4DA3-AF59-F8046B8C4661}</ProjectGuid>
+    <ProjectGuid>{2FCAC541-743C-46B6-A462-65702792114B}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>L13_Beta_Project</RootNamespace>
     <PlatformToolset>v141</PlatformToolset>
